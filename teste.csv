@@ -1,7 +1,0 @@
-
-atleta_id,	rodada, clube_id, participou, posicao_id, jogos_num,	pontos_num,	media_num,	preco_num,	variacao_num,	partida_id,	mando, titular, substituido, tempo_jogado, FS, PE,	A, FT, FD, FF,	G, I, PP, RB,	FC,	GC,	CA,	CV,	SG,	DD,	DP,	GS,
-1605,	89681,	38,	NaN,	0,	NaN,	0,	0.0,	0.0,	1.00,	0.0,	180149.0,	0,	NaN,	0,	NaN,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,
-1606,	89884,	38,	NaN,	0,	NaN,	1,	0.0,	1.2,	1.39,	0.0,	180148.0,	0,	NaN, 0,	NaN,	0, 0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,
-1607,	89885, 38, NaN,	0,	NaN,	0,	0.0,	0.0,	1.00,	0.0,	180141.0,	0,	NaN,	0,	NaN,	0,	0,	0,	0,	0,	0,	0,	0, 0,0,0,	0,	0,	0,	0,	0,	0,	0,
-1608,	89897,	38,	NaN,	0,	NaN,	0,	0.0,	0.0,	1.00,	0.0,	180148.0,	0,	NaN,	0,	NaN,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,
-1609,	89924,	38,	NaN,	0,	NaN,	1,	0.0,	-0.8,	0.81,	0.0,	180152.0,	0,	NaN,	0,	NaN,	0,	1,	0,	0,	0,	0,	0,	0,	0,	0,	1,	0,	0,	0,	0,	0,	0,	0
